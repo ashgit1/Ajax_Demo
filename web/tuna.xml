@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<response>
+	<people>
+		<person>
+			<name>
+				Ashish Gupta
+			</name>
+			<ssn>
+				9916081273
+			</ssn>
+		</person>
+		<person>
+			<name>
+				Tanya Sethi
+			</name>
+			<ssn>
+				9972338807
+			</ssn>
+		</person>
+		<person>
+			<name>
+				Roger Federer
+			</name>
+			<ssn>
+				9876546540
+			</ssn>
+		</person>
+		<person>
+			<name>
+				Cristiano Ronaldo
+			</name>
+			<ssn>
+				1234567890
+			</ssn>
+		</person>
+	</people>
+</response>
